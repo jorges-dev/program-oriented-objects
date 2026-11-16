@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "biblioteca-heranca/1.0.0": {
+        "runtime": {
+          "biblioteca-heranca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "biblioteca-heranca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
