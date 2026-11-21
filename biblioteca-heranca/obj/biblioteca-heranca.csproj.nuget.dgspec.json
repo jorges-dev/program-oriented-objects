@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hirayama/Documents/Dev/biblioteca-heranca/biblioteca-heranca.csproj": {}
+    "/Users/hirayama/dev/college/program-oriented-objects/biblioteca-heranca/biblioteca-heranca.csproj": {}
   },
   "projects": {
-    "/Users/hirayama/Documents/Dev/biblioteca-heranca/biblioteca-heranca.csproj": {
+    "/Users/hirayama/dev/college/program-oriented-objects/biblioteca-heranca/biblioteca-heranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hirayama/Documents/Dev/biblioteca-heranca/biblioteca-heranca.csproj",
+        "projectUniqueName": "/Users/hirayama/dev/college/program-oriented-objects/biblioteca-heranca/biblioteca-heranca.csproj",
         "projectName": "biblioteca-heranca",
-        "projectPath": "/Users/hirayama/Documents/Dev/biblioteca-heranca/biblioteca-heranca.csproj",
+        "projectPath": "/Users/hirayama/dev/college/program-oriented-objects/biblioteca-heranca/biblioteca-heranca.csproj",
         "packagesPath": "/Users/hirayama/.nuget/packages/",
-        "outputPath": "/Users/hirayama/Documents/Dev/biblioteca-heranca/obj/",
+        "outputPath": "/Users/hirayama/dev/college/program-oriented-objects/biblioteca-heranca/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hirayama/.nuget/NuGet/NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("biblioteca-heranca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc24be81ee296394d6690a947d38d97e1a830af2")]
 [assembly: System.Reflection.AssemblyProductAttribute("biblioteca-heranca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("biblioteca-heranca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
